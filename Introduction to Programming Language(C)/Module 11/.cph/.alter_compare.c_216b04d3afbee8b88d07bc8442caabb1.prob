@@ -1,0 +1,1 @@
+{"name":"Local: alter_compare","url":"c:\\Users\\mhoqu\\Phitron\\Module 11\\alter_compare.c","tests":[{"id":1697681585839,"input":"acm acpc","output":"acm"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mhoqu\\Phitron\\Module 11\\alter_compare.c","group":"local","local":true}
